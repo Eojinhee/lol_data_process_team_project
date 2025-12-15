@@ -317,4 +317,4 @@ BOTTOM   | 0.XXX      | 0.XXXX
     - **LSTM 등 시계열 모델 적용**: 시간의 흐름에 따른 데이터의 연속적인 패턴을 더 잘 학습할 수 있는 LSTM(Long Short-Term Memory)과 같은 딥러닝 모델을 도입하여, 경기 흐름의 '모멘텀' 변화를 예측하는 모델을 연구한다.
   
 
-## 롤 데이터 팀 프로젝트 작성자:https://github.com/SoohorangE
+## 원본 롤 데이터 팀 프로젝트 작성자:https://github.com/SoohorangE
